@@ -3,7 +3,7 @@ public class ShowMessageInSVN {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("Testando ytallo-branch");
+		System.out.println("Testando branch ytallo");
 
 	}
 
